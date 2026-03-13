@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "欢迎来到傅垣毓的个人主页",
+    "section": "",
+    "text": "Note\n\n\n\n本网站基于Quarto构建，是「可重复研究」课程课后作业，全程使用VS Code完成开发与发布。\n\n\n\n\n\n姓名：傅垣毓\n学号：2025303120161\n学习方向：生物信息学（可重复研究）\n\n\n\n\n\n文学化编程的核心思想\nQuarto文档与网站构建\nGit/GitHub版本控制\nVS Code开发环境配置"
+  },
+  {
+    "objectID": "index.html#基础信息",
+    "href": "index.html#基础信息",
+    "title": "欢迎来到傅垣毓的个人主页",
+    "section": "",
+    "text": "姓名：傅垣毓\n学号：2025303120161\n学习方向：生物信息学（可重复研究）"
+  },
+  {
+    "objectID": "index.html#核心学习内容",
+    "href": "index.html#核心学习内容",
+    "title": "欢迎来到傅垣毓的个人主页",
+    "section": "",
+    "text": "文学化编程的核心思想\nQuarto文档与网站构建\nGit/GitHub版本控制\nVS Code开发环境配置"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于我",
+    "section": "",
+    "text": "我是傅垣毓，专注于生物信息学领域的可重复研究，熟练使用VS Code + Quarto完成文档和网站开发，掌握Git/GitHub版本控制工具。\n\n\n\n\n开发工具：VS Code（Quarto插件）\n文档工具：Quarto（Markdown/HTML输出）\n版本控制：Git + GitHub\n编程语言：R/Python（基础）\n\n\n\n\n\nGitHub：FYY0130"
+  },
+  {
+    "objectID": "about.html#个人简介",
+    "href": "about.html#个人简介",
+    "title": "关于我",
+    "section": "",
+    "text": "我是傅垣毓，专注于生物信息学领域的可重复研究，熟练使用VS Code + Quarto完成文档和网站开发，掌握Git/GitHub版本控制工具。"
+  },
+  {
+    "objectID": "about.html#核心技能",
+    "href": "about.html#核心技能",
+    "title": "关于我",
+    "section": "",
+    "text": "开发工具：VS Code（Quarto插件）\n文档工具：Quarto（Markdown/HTML输出）\n版本控制：Git + GitHub\n编程语言：R/Python（基础）"
+  },
+  {
+    "objectID": "about.html#联系方式",
+    "href": "about.html#联系方式",
+    "title": "关于我",
+    "section": "",
+    "text": "GitHub：FYY0130"
+  }
+]

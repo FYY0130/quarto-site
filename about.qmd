@@ -1,0 +1,13 @@
+# 关于我
+
+## 个人简介
+我是傅垣毓，专注于生物信息学领域的可重复研究，熟练使用VS Code + Quarto完成文档和网站开发，掌握Git/GitHub版本控制工具。
+
+## 核心技能
+- 开发工具：VS Code（Quarto插件）
+- 文档工具：Quarto（Markdown/HTML输出）
+- 版本控制：Git + GitHub
+- 编程语言：R/Python（基础）
+
+## 联系方式
+- GitHub：[FYY0130](https://github.com/FYY0130)
